@@ -8,6 +8,14 @@ img#TitlePhoto {
 }
 
 header {
-    background-image: url(https://cdn.pixabay.com/photo/2016/11/12/20/26/mosque-1819673_1280.jpg);
+    background-image: url(http://2.bp.blogspot.com/-81WCnZVnFtM/VQmjopeWDlI/AAAAAAAAz8c/gPISLdVAMqs/s1600/Awesome%2B3D%2BBeautiful%2BIslamic%2BWallpapers6.jpg);
     height:200px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: repeat-x   ;
+}
+
+body{
+
+    background-color: honeydew;
 }
