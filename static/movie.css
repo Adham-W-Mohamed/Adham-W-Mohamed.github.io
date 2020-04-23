@@ -5,7 +5,7 @@ body{
 }
 
 #TitleImage{
-    background-image: url(../Lab3b/images/bannerbg.png);
+    background-image: url(/images/bannerbg.png);
     height:50px;
     width: 100%;
     background-size: contain;
@@ -35,7 +35,7 @@ body{
 
 #INNERONE header{
     width: 550px;
-    background-image: url("../Lab3b/images/rbg.png");
+    background-image: url("/images/rbg.png");
     background-repeat: repeat-x;
     font-size: 48pt;
     color: red;
