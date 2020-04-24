@@ -1,0 +1,53 @@
+@media screen and (min-width:600px) {
+    #Columns{
+        flex: 33%;
+        max-width: 100%;
+    }
+}
+
+@media screen and(max-width:599px ){
+    #Columns{
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+#MenuBar{
+    display: flex;
+    background-color: DodgerBlue;
+    background-color: gray;
+    flex: 33%;
+    width: 100%;
+
+
+}
+
+div{
+    padding: 15px;
+    border: solid black;
+
+}
+
+#Columns{
+    display: flex;
+    background-color: #999999;
+
+}
+#Columns div {
+    width: 33%;
+    height: 300px;
+}
+
+#Header{
+    text-align: center;
+    background-color: lightskyblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#Footer{
+    text-align: center;
+    background-color: gray;
+    font-size: 40px;
+
+}

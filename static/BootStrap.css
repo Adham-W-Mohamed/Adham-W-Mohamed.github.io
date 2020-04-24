@@ -1,0 +1,19 @@
+.page-header{
+    background-color: aqua;
+    margin:0px
+}
+
+.col-md-4{
+    background-color:#aaa;
+    border: solid ;
+    width: 33.3333%;
+    height: 300px;
+
+}
+.container{
+    margin: 0px;
+}
+
+.navbar{
+    margin: 0px;
+}
