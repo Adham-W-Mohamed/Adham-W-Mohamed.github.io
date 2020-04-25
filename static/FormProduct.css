@@ -1,0 +1,25 @@
+.nav-item{
+    border-left: white 1px solid;
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
+
+#FloatRight > span {
+    color: white;
+    padding-right: 10px;
+    font-size: 25px;
+}
+
+#FloatRight a{
+    vertical-align: bottom;
+}
+
+.navbar , .navbar-brand{
+    font-size: 20px;
+}
+
+.Title{
+    margin-left: 10%;
+    margin-top: 10px;
+}
